@@ -342,6 +342,7 @@ for i, (mask, score) in enumerate(zip(masks, scores)):
     plt.axis('off')
     plt.show() 
 ```
+#### References
 ```
 @article{kirillov2023segany,
   title={Segment Anything},
@@ -358,3 +359,4 @@ for i, (mask, score) in enumerate(zip(masks, scores)):
   year={2023}
 }
 ```
+https://github.com/maxi-w/CLIP-SAM 
